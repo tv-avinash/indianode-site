@@ -21,6 +21,14 @@ export default function Home() {
       <h2 style={{ marginTop: '2rem', fontSize: '1.5rem' }}>💸 Quick Payment</h2>
       <RazorpayButton />
 
+      <h2 style={{ marginTop: '2rem', fontSize: '1.5rem' }}>📦 Service Plans</h2>
+      <ul>
+        <li>🧠 Whisper API – ₹499/month</li>
+        <li>🎨 Stable Diffusion – ₹199 / 100 renders</li>
+        <li>🔒 VPN Access – ₹149/month</li>
+        <li>⚡ GPU Rental – ₹5/hour (RTX 3090)</li>
+      </ul>
+
       <h2 style={{ marginTop: '2rem', fontSize: '1.5rem' }}>📞 Contact</h2>
       <p>Email: tvavinash@gmail.com</p>
       <p>WhatsApp: +91-9902818004</p>
