@@ -22,8 +22,8 @@ export default function Home() {
       <RazorpayButton />
 
       <h2 style={{ marginTop: '2rem', fontSize: '1.5rem' }}>📞 Contact</h2>
-      <p>Email: support@indianode.com</p>
-      <p>WhatsApp: +91-XXXXXXXXXX</p>
+      <p>Email: tvavinash@gmail.com</p>
+      <p>WhatsApp: +91-9902818004</p>
     </main>
   );
 }
